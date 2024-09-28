@@ -1,0 +1,1 @@
+This project contains a Solidity smart contract deployed and verified on the [Scroll Sepolia network](https://sepolia.scrollscan.com//address/0x5a9D11E24121F888a501dedC70B3f68D44AE5960). It is my submission for the [Level Up Scroll Simple Token Swap](https://www.levelup.xyz/challenges/simple-token-swap) challenge.
